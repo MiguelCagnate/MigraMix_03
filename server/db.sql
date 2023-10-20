@@ -1,6 +1,6 @@
 CREATE DATABASE migramix
 
-CREATE TABLE artist(
+CREATE TABLE users(
     id SERIAL PRIMARY KEY,
     fullName VARCHAR(50) NOT NULL,
     userName VARCHAR(8) NOT NULL,
