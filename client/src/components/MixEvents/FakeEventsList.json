@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "eventTitle": "FESTIVAL DE ARTE URBANO",
+      "eventDescription": "Únete a nosotros en el Festival de Arte Urbano, donde artistas de todo el mundo exhibirán su creatividad en graffiti, música en vivo y performances callejeras. ¡Una experiencia única que no querrás perderte!",
+      "urlEvent": "http://ejemplo.com/festival-arte-urbano",
+      "typeOfActivity": "free",
+      "artistEvent": "Graffiti King",
+      "initialDate": "2023-11-15T12:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/festival-arte.jpg"
+    },
+    {
+      "id": 2,
+      "eventTitle": "Conferencia de Innovación Tecnológica",
+      "eventDescription": "Explora las últimas tendencias en innovación tecnológica en nuestra conferencia anual. Con discursos de expertos de la industria, demostraciones prácticas y oportunidades de networking.",
+      "urlEvent": "http://ejemplo.com/conferencia-innovacion",
+      "typeOfActivity": "paid",
+      "artistEvent": "",
+      "initialDate": "2023-11-18T09:00:00",
+      "finalDate": "2023-11-18T17:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/conferencia-tecnologia.jpg"
+    },
+    {
+      "id": 3,
+      "eventTitle": "Noche de Jazz en el Parque",
+      "eventDescription": "Disfruta de una velada mágica con la Noche de Jazz en el Parque. Actuaciones en vivo de reconocidos músicos de jazz, acompañadas de un ambiente relajado y la belleza del entorno natural.",
+      "urlEvent": "http://ejemplo.com/noche-jazz-parque",
+      "typeOfActivity": "free",
+      "artistEvent": "Melodías Suaves Quartet",
+      "initialDate": "2023-11-20T19:30:00",
+      "finalDate": "2023-11-20T23:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/noche-jazz.jpg"
+    },
+    {
+      "id": 4,
+      "eventTitle": "Exposición de Fotografía Contemporánea",
+      "eventDescription": "Descubre la belleza de la fotografía contemporánea en nuestra exclusiva exposición. Fotógrafos talentosos presentarán sus obras más impactantes e innovadoras.",
+      "urlEvent": "http://ejemplo.com/exposicion-fotografia",
+      "typeOfActivity": "free",
+      "artistEvent": "Luz Creativa",
+      "initialDate": "2023-11-25T10:00:00",
+      "finalDate": "2023-11-25T18:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/exposicion-fotografia.jpg"
+    },
+    {
+      "id": 5,
+      "eventTitle": "Feria Gastronómica Internacional",
+      "eventDescription": "Embárcate en un viaje culinario alrededor del mundo en nuestra Feria Gastronómica Internacional. Degusta platos auténticos de diferentes países y disfruta de la diversidad gastronómica.",
+      "urlEvent": "http://ejemplo.com/feria-gastronomica",
+      "typeOfActivity": "paid",
+      "artistEvent": "",
+      "initialDate": "2023-11-28T12:00:00",
+      "finalDate": "2023-11-28T22:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/feria-gastronomica.jpg"
+    },
+    {
+      "id": 6,
+      "eventTitle": "Festival de Cine Independiente",
+      "eventDescription": "Sumérgete en el mundo del cine independiente en nuestro festival anual. Proyecciones de películas innovadoras, charlas con directores y oportunidades para descubrir nuevos talentos.",
+      "urlEvent": "http://ejemplo.com/festival-cine-independiente",
+      "typeOfActivity": "free",
+      "artistEvent": "",
+      "initialDate": "2023-12-02T17:00:00",
+      "finalDate": "2023-12-02T23:59:00",
+      "eventImage": "http://ejemplo.com/imagenes/festival-cine.jpg"
+    },
+    {
+      "id": 7,
+      "eventTitle": "Concierto Acústico en la Playa",
+      "eventDescription": "Relájate con el sonido de las olas y la música en vivo en nuestro Concierto Acústico en la Playa. Artistas locales interpretarán sus canciones más populares en un ambiente único.",
+      "urlEvent": "http://ejemplo.com/concierto-acustico-playa",
+      "typeOfActivity": "free",
+      "artistEvent": "María Acústica",
+      "initialDate": "2023-12-05T18:30:00",
+      "finalDate": "2023-12-05T21:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/concierto-playa.jpg"
+    },
+    {
+      "id": 8,
+      "eventTitle": "Exposición de Esculturas Modernas",
+      "eventDescription": "Admira la creatividad en tres dimensiones en nuestra Exposición de Esculturas Modernas. Escultores contemporáneos mostrarán sus piezas más impresionantes y provocativas.",
+      "urlEvent": "http://ejemplo.com/exposicion-esculturas",
+      "typeOfActivity": "free",
+      "artistEvent": "Formas Esculturales",
+      "initialDate": "2023-12-09T11:00:00",
+      "finalDate": "2023-12-09T19:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/exposicion-esculturas.jpg"
+    },
+    {
+      "id": 9,
+      "eventTitle": "Noche de Comedia en Vivo",
+      "eventDescription": "Ríete a carcajadas en nuestra Noche de Comedia en Vivo. Humoristas locales y sorpresas garantizadas para hacer que tu noche sea inolvidable.",
+      "urlEvent": "http://ejemplo.com/noche-comedia-vivo",
+      "typeOfActivity": "paid",
+      "artistEvent": "Risas Seguras",
+      "initialDate": "2023-12-12T20:00:00",
+      "finalDate": "2023-12-12T22:30:00",
+      "eventImage": "http://ejemplo.com/imagenes/noche-comedia.jpg"
+    },
+    {
+      "id": 10,
+      "eventTitle": "Festival de Danza Contemporánea",
+      "eventDescription": "Déjate llevar por la expresión artística en movimiento en nuestro Festival de Danza Contemporánea. Compañías de danza de renombre internacional te cautivarán con sus actuaciones.",
+      "urlEvent": "http://ejemplo.com/festival-danza-contemporanea",
+      "typeOfActivity": "free",
+      "artistEvent": "",
+      "initialDate": "2023-12-15T15:00:00",
+      "finalDate": "2023-12-15T21:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/festival-danza.jpg"
+    },
+    {
+      "id": 11,
+      "eventTitle": "Taller de Pintura al Aire Libre",
+      "eventDescription": "Despierta tu lado creativo en nuestro Taller de Pintura al Aire Libre. Un espacio donde podrás experimentar con colores y texturas mientras disfrutas del entorno natural.",
+      "urlEvent": "http://ejemplo.com/taller-pintura-aire-libre",
+      "typeOfActivity": "free",
+      "artistEvent": "Pinceles Libres",
+      "initialDate": "2023-12-18T14:00:00",
+      "finalDate": "2023-12-18T18:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/taller-pintura.jpg"
+    },
+    {
+      "id": 12,
+      "eventTitle": "Concierto de Rock en la Azotea",
+      "eventDescription": "Vive la energía del rock en nuestro Concierto de Rock en la Azotea. Bandas locales e invitados especiales te harán vibrar con sus potentes melodías y letras impactantes.",
+      "urlEvent": "http://ejemplo.com/concierto-rock-azotea",
+      "typeOfActivity": "free",
+      "artistEvent": "Riffs Poderosos",
+      "initialDate": "2023-12-21T19:00:00",
+      "finalDate": "2023-12-21T22:30:00",
+      "eventImage": "http://ejemplo.com/imagenes/concierto-rock.jpg"
+    },
+    {
+      "id": 13,
+      "eventTitle": "Exposición de Arte Digital",
+      "eventDescription": "Explora el arte en la era digital en nuestra Exposición de Arte Digital. Artistas digitales presentarán obras que desafían los límites de la creatividad en el mundo digital.",
+      "urlEvent": "http://ejemplo.com/exposicion-arte-digital",
+      "typeOfActivity": "free",
+      "artistEvent": "Pixeles Creativos",
+      "initialDate": "2023-12-24T12:00:00",
+      "finalDate": "2023-12-24T18:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/exposicion-arte-digital.jpg"
+    },
+    {
+      "id": 14,
+      "eventTitle": "Noche de Flamenco",
+      "eventDescription": "Sumérgete en la pasión y el arte del flamenco en nuestra Noche de Flamenco. Bailaores y guitarristas talentosos te transportarán a la esencia misma de esta expresión artística única.",
+      "urlEvent": "http://ejemplo.com/noche-flamenco",
+      "typeOfActivity": "free",
+      "artistEvent": "Fuego y Pasión",
+      "initialDate": "2023-12-28T20:30:00",
+      "finalDate": "2023-12-28T23:00:00",
+      "eventImage": "http://ejemplo.com/imagenes/noche-flamenco.jpg"
+    },
+    {
+      "id": 15,
+      "eventTitle": "Festival de Teatro Experimental",
+      "eventDescription": "Descubre nuevas formas de expresión teatral en nuestro Festival de Teatro Experimental. Compañías de teatro innovadoras presentarán obras que desafían las convenciones y sorprenden al público.",
+      "urlEvent": "http://ejemplo.com/festival-teatro-experimental",
+      "typeOfActivity": "free",
+      "artistEvent": "",
+      "initialDate": "2023-12-31T18:00:00",
+      "finalDate": "2023-12-31T23:59:00",
+      "eventImage": "http://ejemplo.com/imagenes/festival-teatro.jpg"
+    }
+  ]
+  

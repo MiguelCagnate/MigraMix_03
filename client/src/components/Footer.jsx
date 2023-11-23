@@ -1,89 +1,56 @@
 const Footer = () => {
+ 
   return (
     <div>
-      <footer className="py-6 dark:bg-gray-800 dark:text-gray-50 p-16 m-16">
-        <div className="container px-6 mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50">
-          <div className="grid grid-cols-12">
-            <div className="pb-6 col-span-full md:pb-0 md:col-span-6">
+      <footer className="py-24 p-16 w-full h-full ">
+        <h2 className="pb-3 text-3xl text-center font-semibold font-Gayathri text-[#F70808]">
+          Frequently Asked Questions
+        </h2>
+        <div className="container px-auto mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50">
+          <div className="grid grid-cols-1 gap-12 sm:grid-cols-4">
+            <div className="pb-2">
               <a
                 rel="noopener noreferrer"
                 href="#"
                 className="flex justify-center space-x-3 md:justify-start"
               >
-                <div className="flex items-center justify-center h-64 rounded-lg dark:bg-violet-400">
-                  <img
-                    src="images\infinityshape.png" // Use the correct relative path to your image
-                    alt="Your Alt Text" // Provide an appropriate alt text for accessibility
-                    className="w-full rounded-tl-lg rounded-tr-lg h-64 dark:text-gray-900 mt-30 mr-20 mb-10 ml-10"
-                  />
-                </div>
-
-                <span className="self-center text-2xl font-custom text-[#F70808]"></span>
+                <span className="self-center text-2xl font-custom text-[#DA0707]"></span>
               </a>
             </div>
-            <div className="col-span-6 text-center md:text-left md:col-span-3">
-              <p className="pb-1 text-lg font-custom text-[#F70808]">
-                Frequently Asked Questions
-              </p>
-              <ul>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="hover:dark:text-violet-400"
-                  ></a>
-                </li>
-                <li></li>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="hover:dark:text-violet-400"
-                  >
-                    How can I create an artist profile? <br />
-                    Simply sign up as a MIGRAMIX member and fill out the
-                    required fields with your personal information, music links,
-                    and artist biography to create your profile.
-                  </a>
-                </li>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="hover:dark:text-violet-400 text-left"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="hover:dark:text-violet-400 text-left"
-                  >
-                    Can I discover events without signing up?
-                    <br />
-                    Absolutely! MIGRAMIX is open to both local and migrant
-                    artists who want to explore the electronic music scene in
-                    Barcelona. No registration is required to discover events
-                    and artists.
-                  </a>
-                </li>
-              </ul>
+            <div className="text-left">
+              <div
+                rel="noopener noreferrer"
+                href="#"
+                className="text-left pb-1"
+              >
+                <h3 className="text-left font-semibold pb-1">
+                  How can I create an artist profile?
+                </h3>
+                <p className="pb-1 font-semibold">
+                  Simply sign up as a MIGRAMIX member and fill out the required
+                  fields with your personal information, music links, and artist
+                  biography to create your profile.
+                </p>
+              </div>
             </div>
-            <div className="col-span-6 text-center md:text-left md:col-span-3">
-              <ul>
-                <li>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="hover:dark:text-violet-400"
-                  ></a>
-                </li>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
+            <div className="text-left">
+              <div
+                rel="noopener noreferrer"
+                href="#"
+                className="text-left pb-1"
+              >
+                <h3 className="text-left font-semibold">
+                  Can I discover events without signing up?
+                </h3>
+                <p className="pb-1 font-semibold">
+                  Absolutely! MIGRAMIX is open to both local and migrant artists
+                  who want to explore the electronic music scene in Barcelona.
+                  No registration is required to discover events and artists.
+                </p>
+              </div>
             </div>
           </div>
+
           <div className="grid justify-center pt-6 lg:justify-between">
             <div className="flex flex-col self-center text-sm text-center md:block lg:col-start-1 md:space-x-6">
               <span>©2023 All rights reserved</span>
@@ -99,7 +66,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 href="#"
                 title="Email"
-                className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-gray-900"
+                className="flex items-center justify-center w-10 h-10 rounded-full"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +82,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 href="#"
                 title="Twitter"
-                className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-gray-900"
+                className="flex items-center justify-center w-10 h-10 rounded-full"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +97,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 href="#"
                 title="GitHub"
-                className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-gray-900"
+                className="flex items-center justify-center w-10 h-10 rounded-full"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -147,9 +114,6 @@ const Footer = () => {
       </footer>
     </div>
   );
-}
+};
 
-export default Footer
-
-
-
+export default Footer;

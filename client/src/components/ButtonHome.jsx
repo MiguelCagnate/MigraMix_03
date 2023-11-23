@@ -9,13 +9,14 @@ const ButtonHome = () => {
           navigate("/")
       }
     return (
-         <Button 
+         <Button
             className="w-12" 
             variant="text" 
             startIcon={<HomeIcon />} 
             onClick={handleHomeClick}
+            style={{color:"red"}}
         >
-            Home
+            MIGRAMIX
         </Button>
     )
 }

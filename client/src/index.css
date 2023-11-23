@@ -1,12 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@font-face {
-  font-family: 'Audiowide';
-  src: url('/path-to-your-fonts/audiowide.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
+
 .fade-slide-effect {
   opacity: 0;
   transform: translateY(10px);
@@ -17,3 +12,17 @@
   opacity: 1;
   transform: translateY(0);
 }
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+} 
+
+/* Remove up/down arrow dials from TextField */
+
+/* body {
+  margin: 0; 
+  padding: 0; /* 
+  background-color: #F70808 
+}
+*/
