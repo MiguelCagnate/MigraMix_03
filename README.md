@@ -14,8 +14,8 @@ Welcome to the Migramix website! This [README.md](./README.md) file provides an 
 
 ## About Migramix
 
-Migramix is a website for the promotion of migrant artists and their events, including the possibility for organisers to be promoted.
-The aim of this site is to bring information from the artists to the artists, all in one place.
+Migramix is a platform dedicated to promoting migrant artists and their events, offering organizers the opportunity for increased visibility. 
+The site's mission is to centralize information, providing artists with a comprehensive resource hub tailored to their needs.
 
 ### Demo
 
